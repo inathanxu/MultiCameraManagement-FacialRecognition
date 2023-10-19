@@ -27,5 +27,5 @@ Finally, in the system log, we can search for specific individuals based on "fac
 
 ## Help or About me 
 If you have any problem, just raise an issue :-D
-如果你有任何安装上的问题，欢迎通过这个email联系我，naixingxu@163.com，或者关注bilibili网站的up“inathanxu”进行私聊，远程协助安装将可能要求你请我喝杯咖啡 ~ (@^_^@) ~
+如果你有任何安装上的问题，欢迎通过这个email联系我，naixingxu@163.com，或者关注bilibili网站的up“inathanxu”进行私聊，远程协助安装将可能要求你请我喝杯咖啡  \(@^_^@)/
 
