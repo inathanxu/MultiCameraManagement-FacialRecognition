@@ -25,3 +25,7 @@ Finally, in the system log, we can search for specific individuals based on "fac
 ![c8947ab50bf4515e9379b185b63cb7f](https://github.com/inathanxu/MutiCameraManagement-FaceRecog/assets/62796940/a11de7af-da5d-4184-987e-7b723981b0bb)
 ![5488f8496925a6807cefbf838684266](https://github.com/inathanxu/MutiCameraManagement-FaceRecog/assets/62796940/15b51e7f-f617-4e82-a008-d2b5df400c39)
 
+## Help or About me 
+If you have any problem, just raise an issue :-D
+如果你有任何安装上的问题，欢迎通过这个email联系我，naixingxu@163.com，或者关注bilibili网站的up“inathanxu”进行私聊，远程协助安装将可能要求你请我喝杯咖啡 ~(@^_^@)~
+
