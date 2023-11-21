@@ -29,3 +29,10 @@ Finally, in the system log, we can search for specific individuals based on "fac
 If you have any problem, just raise an issue :-D
 如果你有任何安装上的问题，欢迎通过这个email联系我，naixingxu@163.com，或者关注bilibili网站的up“inathanxu”进行私聊，远程协助安装将可能要求你请我喝杯咖啡  \\(@^_^@)/
 
+## Some about SQL and database （关于数据库的一些补充）
+
+Due to some reasons, the database files for the project were not provided to everyone. The database structure of this project is very simple. You can refer to the following pictures and write your own files. But remember to modify the file 'sqls.py'. 
+由于一些原因，项目的数据库文件并没有提供给大家。本项目的数据库结构很简单，大家可以参照下面的图片，自己编写文件。但是记得修改“sqls.py”文件。
+![1](https://github.com/inathanxu/MultiCameraManagement-FacialRecognition/assets/62796940/fed69146-8197-4756-b864-285421793057)
+![image](https://github.com/inathanxu/MultiCameraManagement-FacialRecognition/assets/62796940/38735b79-88ce-442a-9727-61c027f14b08)
+
